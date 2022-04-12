@@ -1,0 +1,23 @@
+C:\Users\Ferna\Documents\coisas de fernando\ATIVIDADES DO NSA\DESENVOLVIMENTO DE SISTEMAS\DS - EAD\DS - EAD\bin\Debug\DS - EAD.exe.config
+C:\Users\Ferna\Documents\coisas de fernando\ATIVIDADES DO NSA\DESENVOLVIMENTO DE SISTEMAS\DS - EAD\DS - EAD\bin\Debug\DS - EAD.exe
+C:\Users\Ferna\Documents\coisas de fernando\ATIVIDADES DO NSA\DESENVOLVIMENTO DE SISTEMAS\DS - EAD\DS - EAD\bin\Debug\DS - EAD.pdb
+C:\Users\Ferna\Documents\coisas de fernando\ATIVIDADES DO NSA\DESENVOLVIMENTO DE SISTEMAS\DS - EAD\DS - EAD\bin\Debug\DS - EAD.xml
+C:\Users\Ferna\Documents\coisas de fernando\ATIVIDADES DO NSA\DESENVOLVIMENTO DE SISTEMAS\DS - EAD\DS - EAD\obj\Debug\DS - EAD.vbprojAssemblyReference.cache
+C:\Users\Ferna\Documents\coisas de fernando\ATIVIDADES DO NSA\DESENVOLVIMENTO DE SISTEMAS\DS - EAD\DS - EAD\obj\Debug\DS___EAD.Form1.resources
+C:\Users\Ferna\Documents\coisas de fernando\ATIVIDADES DO NSA\DESENVOLVIMENTO DE SISTEMAS\DS - EAD\DS - EAD\obj\Debug\DS___EAD.Resources.resources
+C:\Users\Ferna\Documents\coisas de fernando\ATIVIDADES DO NSA\DESENVOLVIMENTO DE SISTEMAS\DS - EAD\DS - EAD\obj\Debug\DS - EAD.vbproj.GenerateResource.cache
+C:\Users\Ferna\Documents\coisas de fernando\ATIVIDADES DO NSA\DESENVOLVIMENTO DE SISTEMAS\DS - EAD\DS - EAD\obj\Debug\DS - EAD.vbproj.CoreCompileInputs.cache
+C:\Users\Ferna\Documents\coisas de fernando\ATIVIDADES DO NSA\DESENVOLVIMENTO DE SISTEMAS\DS - EAD\DS - EAD\obj\Debug\DS - EAD.exe
+C:\Users\Ferna\Documents\coisas de fernando\ATIVIDADES DO NSA\DESENVOLVIMENTO DE SISTEMAS\DS - EAD\DS - EAD\obj\Debug\DS - EAD.xml
+C:\Users\Ferna\Documents\coisas de fernando\ATIVIDADES DO NSA\DESENVOLVIMENTO DE SISTEMAS\DS - EAD\DS - EAD\obj\Debug\DS - EAD.pdb
+C:\Users\Renato\Desktop\Guilherme\Renato Caetité Cruz - 2°D.S.A\Renato Caetité Cruz - 2°D.S.A\DS - EAD\bin\Debug\DS - EAD.exe.config
+C:\Users\Renato\Desktop\Guilherme\Renato Caetité Cruz - 2°D.S.A\Renato Caetité Cruz - 2°D.S.A\DS - EAD\bin\Debug\DS - EAD.exe
+C:\Users\Renato\Desktop\Guilherme\Renato Caetité Cruz - 2°D.S.A\Renato Caetité Cruz - 2°D.S.A\DS - EAD\bin\Debug\DS - EAD.pdb
+C:\Users\Renato\Desktop\Guilherme\Renato Caetité Cruz - 2°D.S.A\Renato Caetité Cruz - 2°D.S.A\DS - EAD\bin\Debug\DS - EAD.xml
+C:\Users\Renato\Desktop\Guilherme\Renato Caetité Cruz - 2°D.S.A\Renato Caetité Cruz - 2°D.S.A\DS - EAD\obj\Debug\DS - EAD.vbprojAssemblyReference.cache
+C:\Users\Renato\Desktop\Guilherme\Renato Caetité Cruz - 2°D.S.A\Renato Caetité Cruz - 2°D.S.A\DS - EAD\obj\Debug\DS___EAD.Form1.resources
+C:\Users\Renato\Desktop\Guilherme\Renato Caetité Cruz - 2°D.S.A\Renato Caetité Cruz - 2°D.S.A\DS - EAD\obj\Debug\DS___EAD.Resources.resources
+C:\Users\Renato\Desktop\Guilherme\Renato Caetité Cruz - 2°D.S.A\Renato Caetité Cruz - 2°D.S.A\DS - EAD\obj\Debug\DS - EAD.vbproj.GenerateResource.cache
+C:\Users\Renato\Desktop\Guilherme\Renato Caetité Cruz - 2°D.S.A\Renato Caetité Cruz - 2°D.S.A\DS - EAD\obj\Debug\DS - EAD.exe
+C:\Users\Renato\Desktop\Guilherme\Renato Caetité Cruz - 2°D.S.A\Renato Caetité Cruz - 2°D.S.A\DS - EAD\obj\Debug\DS - EAD.xml
+C:\Users\Renato\Desktop\Guilherme\Renato Caetité Cruz - 2°D.S.A\Renato Caetité Cruz - 2°D.S.A\DS - EAD\obj\Debug\DS - EAD.pdb

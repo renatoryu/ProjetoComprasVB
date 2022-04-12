@@ -1,0 +1,44 @@
+C:\Users\Renato\Desktop\Guilherme\Renato Caetité Cruz - 2°D.S.A\Renato Caetité Cruz - 2°D.S.A\DS - EAD\obj\Debug\Carrinho.vbproj.GenerateResource.cache
+C:\Users\Renato\Desktop\Guilherme\Renato Caetité Cruz - 2°D.S.A\Renato Caetité Cruz - 2°D.S.A\DS - EAD\bin\Debug\Carrinho.exe.config
+C:\Users\Renato\Desktop\Guilherme\Renato Caetité Cruz - 2°D.S.A\Renato Caetité Cruz - 2°D.S.A\DS - EAD\bin\Debug\Carrinho.exe
+C:\Users\Renato\Desktop\Guilherme\Renato Caetité Cruz - 2°D.S.A\Renato Caetité Cruz - 2°D.S.A\DS - EAD\bin\Debug\Carrinho.pdb
+C:\Users\Renato\Desktop\Guilherme\Renato Caetité Cruz - 2°D.S.A\Renato Caetité Cruz - 2°D.S.A\DS - EAD\bin\Debug\Carrinho.xml
+C:\Users\Renato\Desktop\Guilherme\Renato Caetité Cruz - 2°D.S.A\Renato Caetité Cruz - 2°D.S.A\DS - EAD\obj\Debug\Carrinho.Form1.resources
+C:\Users\Renato\Desktop\Guilherme\Renato Caetité Cruz - 2°D.S.A\Renato Caetité Cruz - 2°D.S.A\DS - EAD\obj\Debug\Carrinho.Resources.resources
+C:\Users\Renato\Desktop\Guilherme\Renato Caetité Cruz - 2°D.S.A\Renato Caetité Cruz - 2°D.S.A\DS - EAD\obj\Debug\Carrinho.exe
+C:\Users\Renato\Desktop\Guilherme\Renato Caetité Cruz - 2°D.S.A\Renato Caetité Cruz - 2°D.S.A\DS - EAD\obj\Debug\Carrinho.xml
+C:\Users\Renato\Desktop\Guilherme\Renato Caetité Cruz - 2°D.S.A\Renato Caetité Cruz - 2°D.S.A\DS - EAD\obj\Debug\Carrinho.pdb
+C:\Users\Renato\Desktop\Guilherme\Renato Caetité Cruz - 2°D.S.A\Renato Caetité Cruz - 2°D.S.A\DS - EAD\obj\Debug\Carrinho.vbprojAssemblyReference.cache
+C:\Users\Renato\Desktop\Renato Caetité Cruz - 2°D.S.A\DS - EAD\bin\Debug\Carrinho.exe.config
+C:\Users\Renato\Desktop\Renato Caetité Cruz - 2°D.S.A\DS - EAD\bin\Debug\Carrinho.exe
+C:\Users\Renato\Desktop\Renato Caetité Cruz - 2°D.S.A\DS - EAD\bin\Debug\Carrinho.pdb
+C:\Users\Renato\Desktop\Renato Caetité Cruz - 2°D.S.A\DS - EAD\bin\Debug\Carrinho.xml
+C:\Users\Renato\Desktop\Renato Caetité Cruz - 2°D.S.A\DS - EAD\obj\Debug\Carrinho.vbprojAssemblyReference.cache
+C:\Users\Renato\Desktop\Renato Caetité Cruz - 2°D.S.A\DS - EAD\obj\Debug\Carrinho.Form1.resources
+C:\Users\Renato\Desktop\Renato Caetité Cruz - 2°D.S.A\DS - EAD\obj\Debug\Carrinho.Resources.resources
+C:\Users\Renato\Desktop\Renato Caetité Cruz - 2°D.S.A\DS - EAD\obj\Debug\Carrinho.vbproj.GenerateResource.cache
+C:\Users\Renato\Desktop\Renato Caetité Cruz - 2°D.S.A\DS - EAD\obj\Debug\Carrinho.exe
+C:\Users\Renato\Desktop\Renato Caetité Cruz - 2°D.S.A\DS - EAD\obj\Debug\Carrinho.xml
+C:\Users\Renato\Desktop\Renato Caetité Cruz - 2°D.S.A\DS - EAD\obj\Debug\Carrinho.pdb
+C:\Users\Renato\Desktop\Nova pasta\Renato Caetité Cruz - 2°D.S.A\DS - EAD\bin\Debug\Carrinho.exe.config
+C:\Users\Renato\Desktop\Nova pasta\Renato Caetité Cruz - 2°D.S.A\DS - EAD\bin\Debug\Carrinho.exe
+C:\Users\Renato\Desktop\Nova pasta\Renato Caetité Cruz - 2°D.S.A\DS - EAD\bin\Debug\Carrinho.pdb
+C:\Users\Renato\Desktop\Nova pasta\Renato Caetité Cruz - 2°D.S.A\DS - EAD\bin\Debug\Carrinho.xml
+C:\Users\Renato\Desktop\Nova pasta\Renato Caetité Cruz - 2°D.S.A\DS - EAD\obj\Debug\Carrinho.vbprojAssemblyReference.cache
+C:\Users\Renato\Desktop\Nova pasta\Renato Caetité Cruz - 2°D.S.A\DS - EAD\obj\Debug\Carrinho.Form1.resources
+C:\Users\Renato\Desktop\Nova pasta\Renato Caetité Cruz - 2°D.S.A\DS - EAD\obj\Debug\Carrinho.Resources.resources
+C:\Users\Renato\Desktop\Nova pasta\Renato Caetité Cruz - 2°D.S.A\DS - EAD\obj\Debug\Carrinho.vbproj.GenerateResource.cache
+C:\Users\Renato\Desktop\Nova pasta\Renato Caetité Cruz - 2°D.S.A\DS - EAD\obj\Debug\Carrinho.exe
+C:\Users\Renato\Desktop\Nova pasta\Renato Caetité Cruz - 2°D.S.A\DS - EAD\obj\Debug\Carrinho.xml
+C:\Users\Renato\Desktop\Nova pasta\Renato Caetité Cruz - 2°D.S.A\DS - EAD\obj\Debug\Carrinho.pdb
+C:\Users\Renato\Desktop\Renato Caetité Cruz - 2°D.S.A\Renato Caetité Cruz - 2°D.S.A\DS - EAD\obj\Debug\Carrinho.vbprojAssemblyReference.cache
+C:\Users\Renato\Desktop\Renato Caetité Cruz - 2°D.S.A\Renato Caetité Cruz - 2°D.S.A\DS - EAD\obj\Debug\Carrinho.Form1.resources
+C:\Users\Renato\Desktop\Renato Caetité Cruz - 2°D.S.A\Renato Caetité Cruz - 2°D.S.A\DS - EAD\obj\Debug\Carrinho.Resources.resources
+C:\Users\Renato\Desktop\Renato Caetité Cruz - 2°D.S.A\Renato Caetité Cruz - 2°D.S.A\DS - EAD\obj\Debug\Carrinho.vbproj.GenerateResource.cache
+C:\Users\Renato\Desktop\Renato Caetité Cruz - 2°D.S.A\Renato Caetité Cruz - 2°D.S.A\DS - EAD\obj\Debug\Carrinho.exe
+C:\Users\Renato\Desktop\Renato Caetité Cruz - 2°D.S.A\Renato Caetité Cruz - 2°D.S.A\DS - EAD\obj\Debug\Carrinho.xml
+C:\Users\Renato\Desktop\Renato Caetité Cruz - 2°D.S.A\Renato Caetité Cruz - 2°D.S.A\DS - EAD\obj\Debug\Carrinho.pdb
+C:\Users\Renato\Desktop\Renato Caetité Cruz - 2°D.S.A\Renato Caetité Cruz - 2°D.S.A\DS - EAD\bin\Debug\Carrinho.exe.config
+C:\Users\Renato\Desktop\Renato Caetité Cruz - 2°D.S.A\Renato Caetité Cruz - 2°D.S.A\DS - EAD\bin\Debug\Carrinho.exe
+C:\Users\Renato\Desktop\Renato Caetité Cruz - 2°D.S.A\Renato Caetité Cruz - 2°D.S.A\DS - EAD\bin\Debug\Carrinho.pdb
+C:\Users\Renato\Desktop\Renato Caetité Cruz - 2°D.S.A\Renato Caetité Cruz - 2°D.S.A\DS - EAD\bin\Debug\Carrinho.xml
